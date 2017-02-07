@@ -7,9 +7,9 @@ git clone git@github.com:AliSchlereth/complete_me.git
 cd complete_me
 ```
 #### Run the Test Suite  
-$ rake  
+```$ rake  
 90 assertions passing
-
+```
 #### Project Details
 [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)  
 This project explores the creation and utilization of a Trie made in Ruby.  
