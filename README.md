@@ -2,7 +2,8 @@
 #### Auto Complete Dictionary Application
    
 #### Clone Down the Repo
-```git clone git@github.com:AliSchlereth/complete_me.git  
+```
+git clone git@github.com:AliSchlereth/complete_me.git  
 cd complete_me
 ```
 #### Run the Test Suite  
